@@ -1,0 +1,48 @@
+menu:
+  home:
+    path: /
+    icon: ri:home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: ri:archive-line
+    - type: categories
+      path: /categories/
+      icon: ri:folder-2-line
+    - type: tags
+      path: /tags/
+      icon: ri:price-tag-3-line
+
+avatar:
+  url: /pics/avatar.jpg
+  rounded: true
+  opacity: 1
+  status:
+    enable: true
+    emoji: 💤
+    message: 睡大觉
+
+banner:
+  enable: true
+  title:
+    - - 鱼鱼
+    - 宇宙 -
+    - 現
+    - 在
+    - 心
+    - 行
+    - 形
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+notice:
+  enable: true
+  content: 哇好好看
+
+wordcloud:
+  enable: true
