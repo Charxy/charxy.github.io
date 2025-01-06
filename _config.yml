@@ -111,4 +111,4 @@ deploy:
   type: git
   repo: https://github.com/Charxy/charxy.github.io
   branch: main # 默认用 main 分支
-  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }} # Update Hexo Static Content
+  message: Update Hexo Static Content
