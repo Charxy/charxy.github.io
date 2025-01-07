@@ -273,7 +273,9 @@
 
 
   
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <!-- Valine.min.js 修改位置！！！ -->
+  <!-- <script src='//unpkg.com/valine/dist/Valine.min.js'></script> -->
+  <script src='//cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js'></script>
   <div id="comment-card" class="comment-card">
     <div class="main-title-bar">
       <div class="main-title-dot"></div>
@@ -282,9 +284,7 @@
     <div id="vcomments"></div>
   </div>
   <script>
-      new Valine({"enable":true,"enableQQ":true,"appId":"dCKwhYXrHlbvPLeJ7kjuo0Sw-gzGzoHsz","appKey":"aUgZBlUsXWheyTITsfhznbhz","placeholder":"留个脚印嘛 owo 支持 Gravatar 头像，邮箱栏输入 Gravatar 注册邮箱即可显示个性头像w","avatar":"retro","pageSize":10,"highlight":true,"serverURLs":null,"el":"#vcomments"});
-	  
-	  avatar: 'retro'
+      new Valine({"enable":true,"enableQQ":true,"appId":"dCKwhYXrHlbvPLeJ7kjuo0Sw-gzGzoHsz","appKey":"aUgZBlUsXWheyTITsfhznbhz","placeholder":"留个脚印嘛 owo","avatar":"monsterid","pageSize":10,"highlight":true,"meta":["nick","mail","link"],"visitor":true,"serverURLs":null,"requiredFields":["nick"],"tagMeta":["博主","小伙伴","有缘人"],"master":["dbac733e8273f05ffbb7d518c0a00861"],"friends":["29965666e23ccf00db9b367d822aafd7"],"metaPlaceholder":{"nick":"QQ号／昵称","mail":"邮箱(可显示Gravatar头像)","link":"个人网站(选填)"},"el":"#vcomments"});
   </script>
 
 

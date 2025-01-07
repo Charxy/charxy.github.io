@@ -56,16 +56,23 @@ categories:
 # Third-party comment system
 comment:
   valine:
-    enable: true         # Enable Valine comment system
-    enableQQ: true #不知道为啥不生效》尝试在hexo-theme-vivia\layout_partial\article.ejs的第86行添加了相关配置
+    enable: true
+    enableQQ: true
     appId: dCKwhYXrHlbvPLeJ7kjuo0Sw-gzGzoHsz
     appKey: aUgZBlUsXWheyTITsfhznbhz
-    placeholder: 留个脚印嘛 owo 支持 Gravatar 头像，邮箱栏输入 Gravatar 注册邮箱即可显示个性头像w
-    avatar: 'retro' #默认头像？
-    pageSize: 10
+    placeholder: 留个脚印嘛 owo
+    avatar: monsterid # retro # Gravatar 头像展示方式。不能使用不知道为啥
+    pageSize: 10 # 评论列表分页，每页条数。
     highlight: true
-    serverURLs: 
-    # Other supported parameters can be added here if needed
+    meta: [nick, mail, link] # 评论者相关属性。[nick, mail, link]
+    visitor: true # 是否记录访问次数
+    serverURLs: # api地址
+    requiredFields: [nick] # 设置必填项 [nick,mail,link]
+    # 以下需要 //cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js
+    tagMeta: ["博主","小伙伴","有缘人"] # 标签要显示的文字["博主","小伙伴","访客"]
+    master: ["dbac733e8273f05ffbb7d518c0a00861"] # md5 加密后的博主邮箱 逗号隔开
+    friends: ["29965666e23ccf00db9b367d822aafd7"] # md5 加密后的小伙伴邮箱 逗号隔开
+    metaPlaceholder: {"nick":"QQ号／昵称","mail":"邮箱(可显示Gravatar头像)","link":"个人网站(选填)"} # meta placeholder 内容
     # Visit https://valine.js.org/configuration.html for more details
   twikoo:
     enable: false          # Enable Twikoo comment system
