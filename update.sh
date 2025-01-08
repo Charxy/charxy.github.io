@@ -19,4 +19,4 @@ git commit -m "$info_with_timestamp"
 git push origin hexo
 	
 # 打包源代码，备份到本地
-7z a ../Hexo-Blog_deploy-backup/backup_$datetime.7z ./*
+./update-zip-timestamp.bat
