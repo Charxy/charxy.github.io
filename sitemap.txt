@@ -7,8 +7,8 @@ http://example.com/tags/index.html
 http://example.com/2024/04/17/hello-world/
 http://example.com/2024/04/18/test-test-mic-check-1-2/
 http://example.com/
-http://example.com/tags/%E4%BA%9A%E6%96%87%E5%8C%96/
 http://example.com/tags/Cache/
+http://example.com/tags/%E4%BA%9A%E6%96%87%E5%8C%96/
 http://example.com/tags/%E9%9F%B3%E4%B9%90/
 http://example.com/categories/test/
 http://example.com/categories/wiki/
