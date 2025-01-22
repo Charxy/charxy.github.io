@@ -61,7 +61,7 @@ comment:
     appId: dCKwhYXrHlbvPLeJ7kjuo0Sw-gzGzoHsz
     appKey: aUgZBlUsXWheyTITsfhznbhz
     placeholder: 留个脚印嘛 owo
-    avatar: monsterid # retro # Gravatar 头像展示方式。不能使用不知道为啥
+    avatar: retro # Gravatar 头像展示方式。不能使用不知道为啥
     pageSize: 10 # 评论列表分页，每页条数。
     highlight: true
     meta: [nick, mail, link] # 评论者相关属性。[nick, mail, link]

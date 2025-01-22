@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://charxy.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -95,13 +95,16 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+  - hexo-footnotes
 ## Themes: https://hexo.io/themes/
+# 注：以下有自带侧边栏目录的需要禁用hexo-toc包
 # theme: landscape #默认，OK！
-# theme: next #侧边栏目录一直没调好
-# theme: yun #云游君，OK应该
+# theme: next #有侧边栏目录
+# theme: yun #云游君，OK应该。有侧边栏目录，似乎没有评论系统
 # theme: hexo-theme-yuzu #完全还没调通环境不能用。。
 # theme: sky #依赖下载depressed不能用（）
-theme: vivia #从npm下载的就是好！可惜没有目录条。有评论系统我没研究
+theme: vivia #可惜没有目录条。有评论系统，默认头像没搞懂
 toc: 
   maxdepth: 3
 
