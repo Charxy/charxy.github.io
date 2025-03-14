@@ -1,6 +1,4 @@
 https://charxy.github.io/about/index.html
-https://charxy.github.io/2024/04/18/wiki_%E7%BE%8E%E5%AD%A6%E4%BA%9A%E6%96%87%E5%8C%96/
-https://charxy.github.io/2024/09/18/wiki_%E9%9F%B3%E4%B9%90%E3%80%81%E4%B8%8E%E6%97%B6%E4%BB%A3/
 https://charxy.github.io/404.html
 https://charxy.github.io/categories/index.html
 https://charxy.github.io/tags/index.html
@@ -8,7 +6,4 @@ https://charxy.github.io/2024/04/17/hello-world/
 https://charxy.github.io/2024/04/18/test-test-mic-check-1-2/
 https://charxy.github.io/
 https://charxy.github.io/tags/Cache/
-https://charxy.github.io/tags/%E9%9F%B3%E4%B9%90/
-https://charxy.github.io/tags/%E4%BA%9A%E6%96%87%E5%8C%96/
 https://charxy.github.io/categories/test/
-https://charxy.github.io/categories/wiki/
