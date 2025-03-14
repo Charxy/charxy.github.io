@@ -67,7 +67,7 @@ comment:
     meta: [nick, mail, link] # 评论者相关属性。[nick, mail, link]
     visitor: true # 是否记录访问次数
     serverURLs: # api地址
-    requiredFields: [nick] # 设置必填项 [nick,mail,link]
+    requiredFields: [mail] # 设置必填项 [nick,mail,link]
     # 以下需要 //cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js
     tagMeta: ["博主","小伙伴","有缘人"] # 标签要显示的文字["博主","小伙伴","访客"]
     master: ["dbac733e8273f05ffbb7d518c0a00861"] # md5 加密后的博主邮箱 逗号隔开

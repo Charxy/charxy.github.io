@@ -1,5 +1,4 @@
-npx hexo clean # 清除缓存
-npx hexo g && npx hexo d # 重新部署 Hexo
+npx hexo clean && npx hexo g && npx hexo d # 清除缓存、重新部署 Hexo
 
 # 获取当前日期和时间，并格式化为 YYYYMMDDHHMMSS
 datetime=$(date +"%Y%m%d%H%M%S")

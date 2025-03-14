@@ -11,24 +11,6 @@
   </url>
   
   <url>
-    <loc>https://charxy.github.io/2024/04/18/wiki_%E7%BE%8E%E5%AD%A6%E4%BA%9A%E6%96%87%E5%8C%96/</loc>
-    
-    <lastmod>2024-12-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://charxy.github.io/2024/09/18/wiki_%E9%9F%B3%E4%B9%90%E3%80%81%E4%B8%8E%E6%97%B6%E4%BB%A3/</loc>
-    
-    <lastmod>2024-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://charxy.github.io/404.html</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -76,7 +58,7 @@
 
   <url>
     <loc>https://charxy.github.io/</loc>
-    <lastmod>2025-01-22</lastmod>
+    <lastmod>2025-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +66,7 @@
   
   <url>
     <loc>https://charxy.github.io/tags/Cache/</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://charxy.github.io/tags/%E4%BA%9A%E6%96%87%E5%8C%96/</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://charxy.github.io/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2025-01-22</lastmod>
+    <lastmod>2025-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,14 +75,7 @@
   
   <url>
     <loc>https://charxy.github.io/categories/test/</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://charxy.github.io/categories/wiki/</loc>
-    <lastmod>2025-01-22</lastmod>
+    <lastmod>2025-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
